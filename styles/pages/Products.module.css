@@ -1,0 +1,14 @@
+.main {
+ background-color: #F0E7DB;
+}
+
+.title {
+ font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 400;
+font-size: 3rem;
+text-transform: uppercase;
+color: #000000;
+text-align: center;
+margin: 5rem 0;
+}
